@@ -146,4 +146,4 @@ Don't forget to give the project a star! ⭐ Thanks again!
 
 [Abhinav Veeramalla/Abhinav-36] - [vabhinav991222@gmail.com]
 
-Project Link: []
+Project Link: [https://github.com/Abhinav-36/Qkart-Frontend-React.git]
