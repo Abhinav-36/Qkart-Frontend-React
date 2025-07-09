@@ -23,7 +23,6 @@ It's packed with essential e-commerce features:
 * **Dynamic Product Catalog** 📦: Browse a wide range of products with detailed information.
 * **Intuitive Shopping Cart** 🛒: Easily add, update, and manage items before checkout.
 * **Secure Checkout Process** 🔒: A smooth and secure way to complete purchases.
-* **[Add any other key features, e.g., Search & Filters, Product Reviews]**
 
 My motivation for building Qkart was to gain hands-on experience with full-stack development, particularly focusing on creating a scalable and user-friendly e-commerce application using modern web technologies. 🎯
 
